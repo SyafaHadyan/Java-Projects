@@ -6,5 +6,6 @@ public class Variable {
 
         System.out.println(x);
         System.out.println(y);
+        
     }
 }
