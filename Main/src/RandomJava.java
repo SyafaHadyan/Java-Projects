@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class If {
+public class RandomJava {
 
     public static void main(String[] args) throws Exception {
         
