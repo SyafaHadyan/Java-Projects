@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class IfStatement {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your age: ");
@@ -14,6 +14,6 @@ public class IfStatement {
         } else {
             System.out.println("You are a child.");
         }
-        
+
     }
 }
