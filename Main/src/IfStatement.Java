@@ -14,6 +14,7 @@ public class IfStatement {
             System.out.println("You are an adult.");
         } else {
             System.out.println("You are a child.");
+            
         }
     }
 }
